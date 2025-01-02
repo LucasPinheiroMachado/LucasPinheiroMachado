@@ -6,7 +6,8 @@
 
 ## 📊 Linguagens Mais Usadas
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPinheiroMachado&layout=compact&theme=radical)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPinheiroMachado&layout=compact&theme=radical&langs_count=10)
+
 
 ---
 
