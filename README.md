@@ -8,33 +8,37 @@
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPinheiroMachado&layout=compact&theme=radical&langs_count=10)
 
-
 ---
 
 ## 🚀 Tecnologias que Utilizo
 
 ### Front-End
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat-square)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat-square)
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML5" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  <img align="center" alt="Next.js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Vue.js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
+</div>
 
 ### Back-End
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat-square)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat-square)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat-square)
+<div style="display: inline_block"><br>
+  <img align="center" alt="Node.js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" alt="Laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg">
+  <img align="center" alt="Django" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg">
+</div>
 
 ### Banco de Dados
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square) 
-
+<div style="display: inline_block"><br>
+  <img align="center" alt="Firebase" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg">
+  <img align="center" alt="MongoDB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+</div>
 
 ---
 
