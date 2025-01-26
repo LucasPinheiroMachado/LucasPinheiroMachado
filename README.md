@@ -1,6 +1,6 @@
 # Lucas Pinheiro Machado
 
-#### 👋 Olá, sou Lucas Pinheiro Machado, Desenvolvedor Full Stack, estou graduando em Sistemas de Informação e sou desenvolvedor autônomo na BitPin!
+#### 👋 Olá, sou Lucas Pinheiro Machado, Desenvolvedor Full Stack, estou graduando em Sistemas de Informação, sou desenvolvedor freelancer na BitPin e atuo como estagiário de desenvolvimento na DTO publicidade!
 
 ---
 
